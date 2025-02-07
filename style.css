@@ -1,0 +1,44 @@
+.fork-me-link {
+	display: block;
+	position: absolute;
+	top: 0;
+	right: -95px;
+	outline: none;
+	-webkit-transition-property: right;
+	-webkit-transition-duration: 1s;
+	-moz-transition-property: right;
+	-moz-transition-duration: 1s;
+	-ms-transition-property: right;
+	-ms-transition-duration: 1s;
+	-o-transition-property: right;
+	-o-transition-duration: 1s;
+}
+.fork-me-link:hover{
+	right: 0;
+}
+h1{
+   text-align: center; 
+}
+
+
+
+p{
+ font-size: larger;}
+
+
+
+ img{
+
+    height: 300px;
+ }
+ body{
+   background-color: rgba(214, 0, 107, 0.81);
+ }
+
+ p {
+   color: rgb(255, 170, 0);
+ }
+ h1{
+   color: rgb(255, 170, 0);
+ }
+ 
